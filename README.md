@@ -35,7 +35,7 @@ The dataset contains 3,901 customer transaction records with the following featu
 
 - **Python 3.x**
   - pandas - Data manipulation and analysis
-  - SQLAlchemy - Database connection and ORM
+  - SQLAlchemy - Database connection
   - PyMySQL - MySQL database driver
   
 - **MySQL** - Database management and SQL queries
@@ -222,25 +222,4 @@ ORDER BY avg_rating DESC
 LIMIT 5;
 ```
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check issues page if you want to contribute.
-
-## 📝 License
-
-This project is available for educational and analytical purposes.
-
-## 👤 Author
-
-**Vineet Patel**
-- Email: vineetpatel468@gmail.com
-- GitHub: [@vineet416](https://github.com/vineet416)
-- LinkedIn: [@vineet416](https://www.linkedin.com/in/vineet416/)
-
-## 📧 Contact
-
-For any questions or feedback regarding this project, please feel free to reach out.
-
----
-
-*This project demonstrates end-to-end data analytics skills including data cleaning, feature engineering, database management, and SQL-based business intelligence.*
+*This project demonstrates end-to-end data analytics skills including data cleaning, feature engineering and database management.*
